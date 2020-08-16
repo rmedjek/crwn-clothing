@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 10,
+    "editor.fontFamily": " monospace, 'Droid Sans Fallback'",
+    "debug.console.fontSize": 12,
+    "markdown.preview.fontSize": 12,
+    "terminal.integrated.fontSize": 12
+}
