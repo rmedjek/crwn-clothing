@@ -1,6 +1,6 @@
 {
-    "editor.fontSize": 10,
-    "editor.fontFamily": " monospace, 'Droid Sans Fallback'",
+    "editor.fontSize": 12,
+    "editor.fontFamily": "'Fira code', 'Operator mono', monospace",
     "debug.console.fontSize": 12,
     "markdown.preview.fontSize": 12,
     "terminal.integrated.fontSize": 12
