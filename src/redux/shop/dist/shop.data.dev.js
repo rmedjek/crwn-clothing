@@ -56,7 +56,7 @@ var SHOP_DATA = {
       price: 16
     }]
   },
-  sneackers: {
+  sneakers: {
     id: 2,
     title: 'Sneakers',
     routeName: 'sneakers',
@@ -102,7 +102,7 @@ var SHOP_DATA = {
       price: 200
     }]
   },
-  jacketes: {
+  jackets: {
     id: 3,
     title: 'Jackets',
     routeName: 'jackets',
