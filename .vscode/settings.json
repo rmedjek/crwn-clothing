@@ -3,5 +3,6 @@
     "editor.fontFamily": "'Fira code', 'Operator mono', monospace",
     "debug.console.fontSize": 12,
     "markdown.preview.fontSize": 12,
-    "terminal.integrated.fontSize": 12
+    "terminal.integrated.fontSize": 12,
+    "compile-hero.disable-compile-files-on-did-save-code": true
 }
